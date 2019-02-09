@@ -1,4 +1,5 @@
 # datreader
+
 A simple tool to read Clarion Database files and dump its contents.
 
 This is not a complete project. I made it available to help people needing to deal with these old Clarion Database files.
@@ -13,8 +14,8 @@ If you need information on the code, drop me a line.
 
 I used Anjuta to build the project, but you can probably start with:
 
-$ ./configure
-$ make
+    $ ./configure
+    $ make
 
 Good luck.
 
